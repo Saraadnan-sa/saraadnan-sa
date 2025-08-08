@@ -1,16 +1,8 @@
 <p align="center">
-  <span style="font-size:4rem;">👩‍💻</span>
-  <span style="font-size:5rem; font-weight:bold;">Sara Adnan</span>
-</p>
-
-<hr/>
-
-<p align="center">
-  <span style="font-size:3rem;">
-    Full Stack Developer | AI Enthusiast | LLMs, NLP & RAG | Computer Vision
-  </span>
-</p>
-
+  <h1>👩‍💻 Sara Adnan</h1>
+  <b>AI Engineer | Backend Developer | LLMs, NLP & RAG | Computer Vision</b><br>
+<!--   <a href="#">🌐 Portfolio</a> • <a href="#">📫 Email</a>
+</p> -->
 ---
 ## 📝 About Me
 
