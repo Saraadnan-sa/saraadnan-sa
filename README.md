@@ -16,9 +16,9 @@ I'm a passionate developer with a strong background in **full stack web developm
 
 ## 🌱 Currently Exploring
 
-- LLMs & NLP: instruction tuning, embeddings, alignment  
-- Agentic AI: LangGraph, LangChain agents, tool integration  
-- RAG: vector search, hybrid retrieval, doc pipelines  
+- **LLMs & NLP**: instruction tuning, embeddings, alignment  
+- **Agentic AI**: LangGraph, LangChain agents, tool integration  
+- **RAG**: vector search, hybrid retrieval, doc pipelines  
 - Scalable intelligent systems
 
 ## 🛠️ Tools & Technologies
