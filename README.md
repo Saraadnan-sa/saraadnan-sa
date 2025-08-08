@@ -4,12 +4,10 @@
 
 ---
 ## 📝 About Me
-
 I'm a passionate developer with a strong background in full stack web development and a growing interest in Artificial Intelligence. I love building impactful solutions, exploring new technologies, and turning ideas into working products. My journey spans modern web stacks, API integrations, and cutting-edge AI/ML systems.
 
 ---
 ## 🚀 Areas of Expertise
-
 - **Frontend:** React.js, Next.js
 - **Backend:** Laravel, Node.js, Express.js
 - **Databases:** Supabase, MongoDB
@@ -21,7 +19,6 @@ I'm a passionate developer with a strong background in full stack web developmen
 ---
 
 ## 🌱 Currently Exploring
-
 - Large Language Models (LLMs) & NLP: instruction tuning, embeddings, model alignment
 - Agentic AI Systems: LangGraph, LangChain agents, tool integration
 - Retrieval-Augmented Generation (RAG): vector search, hybrid retrieval, document pipelines
@@ -30,7 +27,6 @@ I'm a passionate developer with a strong background in full stack web developmen
 ---
 
 ## 🛠️ Tools & Technologies
-
 ### 💻 Programming Languages
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
@@ -73,7 +69,6 @@ I'm a passionate developer with a strong background in full stack web developmen
 ---
 
 ## 🤝 Connect with Me
-
 - [LinkedIn](https://www.linkedin.com/in/sara-adnan-aa1181263/)
 - [GitHub](https://github.com/Saraadnan-sa)
 - Open to collaboration, networking, and exciting opportunities!
