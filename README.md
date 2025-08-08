@@ -7,7 +7,6 @@
 I'm a passionate developer with a strong background in full stack web development and a growing interest in Artificial Intelligence. I love building impactful solutions, exploring new technologies, and turning ideas into working products. My journey spans modern web stacks, API integrations, and cutting-edge AI/ML systems.
 
 ---
-
 ## 🚀 Areas of Expertise
 
 - **Frontend:** React.js, Next.js
