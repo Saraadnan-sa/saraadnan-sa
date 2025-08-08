@@ -1,8 +1,7 @@
-<p align="center">
-  <h1>👩‍💻 Sara Adnan</h1>
-  <b>AI Engineer | Backend Developer | LLMs, NLP & RAG | Computer Vision</b><br>
-<!--  <a href="#">🌐 Portfolio</a> • <a href="#">📫 Email</a> -->
-</p> 
+# 👋 Hi, I'm Sara Adnan
+
+**Full Stack Developer | AI Enthusiast | LLMs, NLP & RAG | Computer Vision**
+
 ---
 ## 📝 About Me
 
