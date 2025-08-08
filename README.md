@@ -1,27 +1,17 @@
-# 👩‍💻 Hi, I'm Sara Adnan
 <p align="center">
-  <span style="font-size:3rem;">👩‍💻</span>
-  <span style="font-size:2.5rem; font-weight:bold;">Sara Adnan</span>
+  <span style="font-size:4rem;">👩‍💻</span>
+  <span style="font-size:5rem; font-weight:bold;">Sara Adnan</span>
 </p>
 
 <hr/>
 
 <p align="center">
-  <span style="font-size:1.5rem;">
+  <span style="font-size:3rem;">
     Full Stack Developer | AI Enthusiast | LLMs, NLP & RAG | Computer Vision
   </span>
 </p>
 
-<p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-blue?style=flat-square" alt="Portfolio" />
-  </a>
-  &nbsp;•&nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/📧%20Email-blue?style=flat-square" alt="Email" />
-  </a>
-</p>
-
+---
 ## 📝 About Me
 
 I'm a passionate developer with a strong background in full stack web development and a growing interest in Artificial Intelligence. I love building impactful solutions, exploring new technologies, and turning ideas into working products. My journey spans modern web stacks, API integrations, and cutting-edge AI/ML systems.
