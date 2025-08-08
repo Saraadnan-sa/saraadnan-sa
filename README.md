@@ -1,36 +1,25 @@
 <h1 align="center">👋 Hi, I'm Sara Adnan</h1>
-
-<p align="center">
-  <b>Full Stack Developer | AI Enthusiast | LLMs, NLP & RAG | Computer Vision</b>
-</p>
-
----
+<p align="center"><b>Full Stack Developer | AI Enthusiast | LLMs, NLP & RAG | Computer Vision</b></p>
 
 ## 📝 About Me
 
 I'm a passionate developer with a strong background in **full stack web development** and a growing interest in **Artificial Intelligence**. I enjoy building impactful solutions, exploring new technologies, and turning ideas into working products — from modern web stacks to cutting-edge AI/ML systems.
 
----
-
 ## 🚀 Areas of Expertise
 
-> 💻 **Frontend:** React.js, Next.js  
-> 🛠 **Backend:** Laravel, Node.js, Express.js  
-> 🗄 **Databases:** Supabase, MongoDB  
-> 🔌 **API Integration:** REST APIs, OpenAI APIs  
-> 🧠 **AI Skills:** Prompt engineering, zero-shot learning, data analysis  
-> 🖼 **Computer Vision:** OpenCV, YOLO, deep learning for images
-
----
+- 🧩 **Frontend:** React.js, Next.js  
+- 🔧 **Backend:** Laravel, Node.js, Express.js  
+- 💾 **Databases:** Supabase, MongoDB  
+- 🌐 **API Integration:** REST APIs, OpenAI APIs  
+- 🤖 **AI Skills:** Prompt engineering, zero-shot learning, data analysis  
+- 🖼️ **Computer Vision:** OpenCV, YOLO, deep learning
 
 ## 🌱 Currently Exploring
 
-- **LLMs & NLP:** instruction tuning, embeddings, model alignment  
-- **Agentic AI Systems:** LangGraph, LangChain agents, tool integration  
-- **RAG Pipelines:** vector search, hybrid retrieval, document pipelines  
-- **Scalable Applications:** intelligent, agent-driven systems
-
----
+- LLMs & NLP: instruction tuning, embeddings, alignment  
+- Agentic AI: LangGraph, LangChain agents, tool integration  
+- RAG: vector search, hybrid retrieval, doc pipelines  
+- Scalable intelligent systems
 
 ## 🛠️ Tools & Technologies
 
@@ -69,14 +58,10 @@ I'm a passionate developer with a strong background in **full stack web developm
 ![REST API](https://img.shields.io/badge/-REST%20APIs-02569B?logo=api&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-FF5733?logo=OpenAI&logoColor=white)
 
----
-
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sara-adnan-aa1181263/)
-- [GitHub](https://github.com/Saraadnan-sa)
+- [LinkedIn](https://www.linkedin.com/in/sara-adnan-aa1181263/)  
+- [GitHub](https://github.com/Saraadnan-sa)  
 - Open to collaboration, networking, and exciting opportunities!
-
----
 
 <p align="center"><i>Thanks for visiting my profile! 🚀</i></p>
