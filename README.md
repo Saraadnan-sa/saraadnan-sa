@@ -39,7 +39,6 @@ I'm a passionate developer with a strong background in full stack web developmen
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
----
 
 ### ⚙️ Frameworks
 
@@ -48,14 +47,12 @@ I'm a passionate developer with a strong background in full stack web developmen
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)
 [![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)](https://expressjs.com/)
 
----
 
 ### ☁️ Databases
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
----
 
 ### 🤖 ML & AI
 
@@ -65,7 +62,6 @@ I'm a passionate developer with a strong background in full stack web developmen
 [![LangChain](https://img.shields.io/badge/-LangChain-333333?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjE2IiB3aWR0aD0iMTYiPjwvc3ZnPg==&logoColor=white)](https://www.langchain.com/)
 [![LangGraph](https://img.shields.io/badge/-LangGraph-000000?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjE2IiB3aWR0aD0iMTYiPjwvc3ZnPg==&logoColor=white)](https://www.langchain.com/langgraph)
 
----
 
 ### 🛠️ Other
 
