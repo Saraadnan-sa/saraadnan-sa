@@ -1,47 +1,50 @@
 # 👋 Hi, I'm Sara Adnan
 
-Welcome to my GitHub! I'm a passionate developer with hands-on experience in full stack web development and a growing focus on modern AI and agentic systems.
+---
+
+## 📝 About Me
+
+I'm a passionate developer with a strong background in full stack web development and a growing interest in Artificial Intelligence. I love building impactful solutions, exploring new technologies, and turning ideas into working products. My journey spans modern web stacks, API integrations, and cutting-edge AI/ML systems.
 
 ---
 
-## 💻 Web Development Expertise
+## 🚀 Areas of Expertise
 
 - **Frontend:** React.js, Next.js
 - **Backend:** Laravel, Node.js, Express.js
 - **Databases:** Supabase, MongoDB
-- **API Integration:** Built zero-shot prompt systems leveraging OpenAI APIs
+- **API Integration:** OpenAI, RESTful APIs
+- **AI Projects:** 
+  - Zero-shot resume scoring with OpenAI API (rates CVs vs. job descriptions, lists skills & red flags)
+- **Computer Vision:** OpenCV, YOLO, deep learning for image processing
 
 ---
 
-## 🧠 AI & Machine Learning
+## 🌱 Currently Exploring
 
-- **Resume Scoring Project:** Developed an AI-powered tool using OpenAI’s API for zero-shot resume scoring. The system reads CVs and job descriptions, rates their fit out of 10, highlights relevant skills, and flags potential mismatches and concerns.
-- **Currently Learning:** Advanced AI concepts, LLMs, and NLP
-- **LLMs & NLP:** Instruction tuning, embeddings, model alignment
-- **Agentic AI:** LangGraph & LangChain agents, tool integration
-- **RAG Systems:** Vector search, hybrid retrieval, scalable document pipelines
-
----
-
-## 👁️ Computer Vision
-
-- **Frameworks:** OpenCV, YOLO
-- **Skills:** Image processing, deep learning for vision tasks
+- Large Language Models (LLMs) & NLP: instruction tuning, embeddings, model alignment
+- Agentic AI Systems: LangGraph, LangChain agents, tool integration
+- Retrieval-Augmented Generation (RAG): vector search, hybrid retrieval, document pipelines
+- Building scalable, intelligent, and agent-driven applications
 
 ---
 
-## 📈 What I'm Up To
+## 🛠️ Tools & Technologies
 
-- Exploring next-gen AI systems with a focus on agentic workflows and RAG (Retrieval-Augmented Generation)
-- Building scalable, intelligent web applications
-- Always learning and experimenting with cutting-edge technologies!
-
----
-
-## 📫 Let's Connect
-
-Want to collaborate or chat tech? [Find me on LinkedIn](#) or drop a message here on GitHub!
+- **Languages:** JavaScript, PHP, Python
+- **Frameworks:** React, Next.js, Laravel, Express
+- **Databases:** MongoDB, Supabase
+- **ML & AI:** OpenAI, YOLO, OpenCV, LangChain, LangGraph
+- **Other:** Git & GitHub, REST APIs, Prompt Engineering
 
 ---
 
-*Thanks for stopping by! 🚀*
+## 🤝 Connect with Me
+
+- [LinkedIn](#) <!-- Replace # with your LinkedIn URL -->
+- [GitHub](https://github.com/Saraadnan-sa)
+- Open to collaboration, networking, and exciting opportunities!
+
+---
+
+*Thanks for visiting my profile! 🚀*
