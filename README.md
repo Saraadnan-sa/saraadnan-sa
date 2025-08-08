@@ -1,6 +1,26 @@
-# 👋 Hi, I'm Sara Adnan
+# 👩‍💻 Hi, I'm Sara Adnan
+<p align="center">
+  <span style="font-size:3rem;">👩‍💻</span>
+  <span style="font-size:2.5rem; font-weight:bold;">Sara Adnan</span>
+</p>
 
+<hr/>
 
+<p align="center">
+  <span style="font-size:1.5rem;">
+    Full Stack Developer | AI Enthusiast | LLMs, NLP & RAG | Computer Vision
+  </span>
+</p>
+
+<p align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-blue?style=flat-square" alt="Portfolio" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/📧%20Email-blue?style=flat-square" alt="Email" />
+  </a>
+</p>
 
 ## 📝 About Me
 
